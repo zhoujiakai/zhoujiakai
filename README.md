@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with startups focused on AI and Web3.
 - 📫 How to reach me ... Follow my WeChat Official Account: 周佳凯的对话空间.
 
-- 你好，我是@周佳凯。
+- 你好，我是 @周佳凯。
 - 我关注 AI、Web3、CV、软件工程。
 - 我最近在学 AI 和 Web3。
 - 我正在寻找与 AI + Web3 的初创公司合作。
