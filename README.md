@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zhoujiakai.
 - 👀 I’m interested in AI, Web3, CV, Software Engineering.
 - 🌱 I’m currently learning AI, Web3.
-- 💞️ I’m looking to collaborate with startups focused on AI and Web3.
 - 📫 How to reach me ... Follow my WeChat Official Account: 周佳凯的对话空间.
 
 - 👋 你好，我是 @周佳凯。
