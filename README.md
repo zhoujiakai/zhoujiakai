@@ -31,15 +31,6 @@
 
 ## 经验
 
-### 视觉方向
-
-**技术栈：** Python, OpenCV, YOLOv5, OpenPose, DeepSort
-
-- 多源视频流接入与融合：支持 RTSP 协议接入摄像头、热成像等多类设备，实现 7×24 小时实时视频流分析
-- 目标检测与跟踪：基于 YOLOv5 + OpenPose + DeepSort 组合方案，处理准确率达 90% 以上，推理速度优化至 25 FPS 以上
-- 姿态与行为识别：通过人体检测框几何特征分析、连续帧序列变化检测（pHash）等手段实现行为识别，误报率控制在 5% 以内
-- 多模态数据融合：融合热成像温度数据与视觉检测结果，结合多源传感器数据与定位系统，实现多模态联合分析，预警响应时间小于 2 秒
-
 ### AI 方向
 
 **技术栈：** Python, LangChain, FastAPI, Celery, RAG, Chroma, FAISS, OpenAI API
@@ -48,6 +39,15 @@
 - Prompt 工程与调优：设计结构化 Prompt 模板，通过 Few-shot 和思维链（CoT）引导输出，问答准确率提升至 85% 以上
 - Agent 接口封装：基于 FastAPI 封装 Agent 调用接口，集成工具调用、记忆管理和多轮对话，通过 Celery 处理长耗时推理请求，接口响应优化至 3 秒以内
 - 跨团队协作：将 AI 能力融入业务工作流，支持文档智能摘要、自动问答、任务调度等核心场景，服务内部用户 200+
+
+### 视觉方向
+
+**技术栈：** Python, OpenCV, YOLOv5, OpenPose, DeepSort
+
+- 多源视频流接入与融合：支持 RTSP 协议接入摄像头、热成像等多类设备，实现 7×24 小时实时视频流分析
+- 目标检测与跟踪：基于 YOLOv5 + OpenPose + DeepSort 组合方案，处理准确率达 90% 以上，推理速度优化至 25 FPS 以上
+- 姿态与行为识别：通过人体检测框几何特征分析、连续帧序列变化检测（pHash）等手段实现行为识别，误报率控制在 5% 以内
+- 多模态数据融合：融合热成像温度数据与视觉检测结果，结合多源传感器数据与定位系统，实现多模态联合分析，预警响应时间小于 2 秒
 
 ### MLOps / 部署运维
 
@@ -62,8 +62,8 @@
 
 ## 开源项目
 
-- [openbiteagle](https://github.com/zhoujiakai/openbiteagle) — 基于 LangGraph 多阶段推理流水线的 Web3 新闻 AI 投资分析平台，自动生成带置信度的买入/卖出建议
 - [openpaper](https://github.com/zhoujiakai/openpaper) — 个人知识库，系统性收集 AI / CV / Web3 / 软件工程等领域的论文、书籍与播客
+- [openbiteagle](https://github.com/zhoujiakai/openbiteagle) — 基于 LangGraph 多阶段推理流水线的 Web3 新闻 AI 投资分析平台，自动生成带置信度的买入/卖出建议
 - [openvision](https://github.com/zhoujiakai/openvision) — 计算机视觉工程合集：YOLOv11 端侧部署与推理、阿里云人脸识别对接、RTSP 多路视频流异步采集
 - [opentask](https://github.com/zhoujiakai/opentask) — FastAPI 异步任务管理后端：分层架构设计，集成 API Key 认证、缓存加速、异步邮件通知
 - [openmeeting](https://github.com/zhoujiakai/openmeeting) — 一站式浏览器会议平台，融合会议日程管理与 WebRTC 实时视频会议
