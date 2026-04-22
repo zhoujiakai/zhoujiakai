@@ -2,6 +2,7 @@
 - 关注领域：AI、Web3、计算机视觉、软件工程
 - 正在学习：AI、Web3
 - 公众号：周佳凯的对话空间.
+- 个人知识库：[openpaper](https://github.com/zhoujiakai/openpaper)
 
 ## 技能
 
