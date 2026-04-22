@@ -57,3 +57,14 @@
 - 自动化部署：编写 Bash 脚本实现 Ubuntu 环境下一键安装部署，将现场部署时间从 2 小时缩短至 15 分钟
 - 运维工具：基于 PySide 开发桌面运维工具，支持现场快速调试和系统配置
 - 系统集成：集成人脸识别 API、语音播报等外部服务，构建完整的自动化处理闭环
+
+---
+
+## 开源项目
+
+- [openbiteagle](https://github.com/zhoujiakai/openbiteagle) — 基于 LangGraph 多阶段推理流水线的 Web3 新闻 AI 投资分析平台，自动生成带置信度的买入/卖出建议
+- [openpaper](https://github.com/zhoujiakai/openpaper) — 个人知识库，系统性收集 AI / CV / Web3 / 软件工程等领域的论文、书籍与播客
+- [openvision](https://github.com/zhoujiakai/openvision) — 计算机视觉工程合集：YOLOv11 端侧部署与推理、阿里云人脸识别对接、RTSP 多路视频流异步采集
+- [opentask](https://github.com/zhoujiakai/opentask) — FastAPI 异步任务管理后端：分层架构设计，集成 API Key 认证、缓存加速、异步邮件通知
+- [openmeeting](https://github.com/zhoujiakai/openmeeting) — 一站式浏览器会议平台，融合会议日程管理与 WebRTC 实时视频会议
+- [openfishing](https://github.com/zhoujiakai/openfishing) — 安卓抓鱼小游戏，Android 原生客户端 + Java Servlet 后端 + MySQL 全栈架构
