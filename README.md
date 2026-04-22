@@ -5,15 +5,6 @@
 
 ## 技能
 
-### 后端开发
-
-- Python3（装饰器、生成器、异步编程），FastAPI，Pydantic
-- 微服务架构：FastAPI + SQLAlchemy，Celery 异步任务队列
-- MySQL、PostgreSQL（分库分表、索引优化、ORM 映射、慢查询分析）
-- Redis（多级缓存架构、分布式锁、缓存雪崩/穿透方案、哨兵集群）
-- Docker 容器化，Nginx 反向代理部署，Serverless 平台
-- Prometheus + Grafana 监控告警，全链路追踪
-
 ### AI 应用开发
 
 - LangChain、LlamaIndex — RAG、工具调用、MCP、多 Agent 协作
@@ -25,6 +16,15 @@
 
 - 目标检测、姿态估计、多目标跟踪、PPOCR、OpenCV
 - RTSP 视频流接入，模型端侧部署与优化
+
+### 后端开发
+
+- Python3（装饰器、生成器、异步编程），FastAPI，Pydantic
+- 微服务架构：FastAPI + SQLAlchemy，Celery 异步任务队列
+- MySQL、PostgreSQL（分库分表、索引优化、ORM 映射、慢查询分析）
+- Redis（多级缓存架构、分布式锁、缓存雪崩/穿透方案、哨兵集群）
+- Docker 容器化，Nginx 反向代理部署，Serverless 平台
+- Prometheus + Grafana 监控告警，全链路追踪
 
 ---
 
