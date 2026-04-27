@@ -3,6 +3,7 @@
 - 正在学习：AI、Web3
 - 公众号：周佳凯对话空间.
 - 个人知识库：[openpaper](https://github.com/zhoujiakai/openpaper)
+- 个人工作流 Skills：[openskill](https://github.com/zhoujiakai/openskill)
 
 ## 技能
 
