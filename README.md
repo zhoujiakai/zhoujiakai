@@ -12,7 +12,6 @@
 - LangChain、LlamaIndex — RAG、工具调用、MCP、多 Agent 协作
 - Prompt 工程，Chroma/FAISS 向量数据库构建 RAG 知识库，文档 ETL 流程
 - AI 编程工具：Claude Code / Cursor，MCP Server 与 Agent Skills 开发
-- Vibe Coding、SDD、Harness Engineering 等 AI 编程模式
 
 ### 计算机视觉
 
