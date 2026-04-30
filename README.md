@@ -10,7 +10,7 @@
 ### AI 应用开发
 
 - LangChain、LlamaIndex — RAG、工具调用、MCP、多 Agent 协作
-- Prompt 工程，Chroma/FAISS 向量数据库构建 RAG 知识库，文档 ETL 流程
+- Prompt 工程，pgvector 向量数据库构建 RAG 知识库，文档 ETL 流程
 - AI 编程工具：Claude Code / Cursor，MCP Server 与 Agent Skills 开发
 
 ### 计算机视觉
@@ -24,8 +24,7 @@
 - 微服务架构：FastAPI + SQLAlchemy，Celery 异步任务队列
 - MySQL、PostgreSQL（分库分表、索引优化、ORM 映射、慢查询分析）
 - Redis（多级缓存架构、分布式锁、缓存雪崩/穿透方案、哨兵集群）
-- Docker 容器化，Nginx 反向代理部署，Serverless 平台
-- Prometheus + Grafana 监控告警，全链路追踪
+- Docker 容器化，Nginx 反向代理部署
 
 ---
 
