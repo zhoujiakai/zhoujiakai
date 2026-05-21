@@ -1,4 +1,4 @@
-> 普通人的竞争还没有到拼天赋的时候，只要比别人稍微认真一点，就是大成功。
+> 普通人的竞争还没有到拼天赋的程度，只要比别人稍微认真一点，就是大成功。
 
 - [openpaper](https://github.com/zhoujiakai/openpaper) — 个人知识库，系统性收集 AI / CV / Web3 / 软件工程等领域的论文、书籍与播客
 - [openbiteagle](https://github.com/zhoujiakai/openbiteagle) — 基于 LangGraph 多阶段推理流水线的 Web3 新闻 AI 投资分析平台，自动生成带置信度的买入/卖出建议
